@@ -25,7 +25,7 @@ An end-to-end Retrieval-Augmented Generation system built fully from scratch.
 - Custom retriever logic & modular chain design
 - Context-aware answer generation with source attribution
 
-🔗 [View on GitHub](https://github.com/saadthespecialist/RAG-from-Scratch)
+🔗 [View on GitHub](https://github.com/saad-jabara/RAG-from-Scratch)
 
 ![RAG Project](portfolio-images/rag-project.jpg)
 
@@ -56,7 +56,7 @@ This experience enabled me to build robust, production-style RAG systems with re
 
 Analyzed which variables influence movie gross revenue through correlation and visual exploration.
 
-🔗 [View on GitHub](https://github.com/saadthespecialist/movie-correlation-analysis)
+🔗 [View on GitHub](https://github.com/saad-jabara/movie-correlation-analysis)
 
 ![Movie Correlation](portfolio-images/movie-correlation.jpg)
 
@@ -68,7 +68,7 @@ Analyzed which variables influence movie gross revenue through correlation and v
 
 Built a scraper to extract and monitor Amazon product pricing data.
 
-🔗 [View on GitHub](https://github.com/saadthespecialist/amazon-web-scraper)
+🔗 [View on GitHub](https://github.com/saad-jabara/amazon-web-scraper)
 
 ![Web Scraper](portfolio-images/web-scraper.jpg)
 
@@ -80,7 +80,7 @@ Built a scraper to extract and monitor Amazon product pricing data.
 
 Transformed raw housing data into an analysis-ready dataset.
 
-🔗 [View on GitHub](https://github.com/saadthespecialist/data-cleaning-sql)
+🔗 [View on GitHub](https://github.com/saad-jabara/data-cleaning-sql)
 
 ![SQL Cleaning](portfolio-images/sql-cleaning.jpg)
 
@@ -92,7 +92,7 @@ Transformed raw housing data into an analysis-ready dataset.
 
 Exploratory analysis of global COVID-19 trends and metrics.
 
-🔗 [View on GitHub](https://github.com/saadthespecialist/data-exploration-sql)
+🔗 [View on GitHub](https://github.com/saad-jabara/data-exploration-sql)
 
 ![SQL Exploration](portfolio-images/sql-exploration.jpg)
 
@@ -104,7 +104,7 @@ Exploratory analysis of global COVID-19 trends and metrics.
 
 Interactive dashboards visualizing KPIs, geographic patterns, and business insights.
 
-🔗 [View on GitHub](https://github.com/saadthespecialist/tableau-dashboards)
+🔗 [View on GitHub](https://github.com/saad-jabara/tableau-dashboards)
 
 ![Tableau Dashboards](portfolio-images/tableau-dashboards.jpg)
 
